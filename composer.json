@@ -11,6 +11,7 @@
             "email": "415113157@qq.com"
         }
     ],
+    "minimum-stability": "dev",
     "require": {
         "php": ">=7.0.0",
         "symfony/dom-crawler": "~3.1",
@@ -53,7 +54,6 @@
             "aliases": {
                 "Admin": "Lambq\\Admin\\Facades\\Admin"
             }
-
         }
     }
 }
